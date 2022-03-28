@@ -1,2 +1,2 @@
 # Data2CSV
-Write data into a csv file
+Read part of data from a csv file and write it into a new csv file
